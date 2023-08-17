@@ -1,18 +1,20 @@
 public class Constants {
-    public static String loadingData = "Loading data...";
-    public static String loadedData = "Data Loaded.";
-    public static String dateFormat = "dd/mm/yyyy-hh:mm:ss a";
-    public static String lastUpdate = "\nList last updated on ";
-    public static String found = "We found it!";
-    public static String wordsFound = " word(s) found ";
-    public static String invalid = "Invalid input";
-    public static String fileName = "students.txt";
-    public static String split = ", ";
-    public static String showNames = "a";
-    public static String randomName = "r";
-    public static String addName = "+";
-    public static String query = "?";
-    public static String CountWords = "c";
+    public static String LOADING_DATA="Loading data ...";
+    public static String LOADED_DATA="Data Loaded.";
+    public static String SPILT=",";
+    public static String FILE_NAME="students.txt";
+    public static String FOUND_MESSAGE="We found it!";
+    public static String ADD="+";
+    public static String RANDOM ="r";
+    public static String ALL="a";
+    public static String WORD_FOUND=" word(s) found ";
+    public static String COUNT="c" ;
+    public static String QUERY="?";
+    public static String DATE_FORMAT ="dd/mm/yyyy-hh:mm:ss a";
+    public static String LAST_UPDATE_MESSAGE="\nList last updated on ";
+    public static int BOUND=4;
+    public static char GAP=' ';
+    public static String  INVALID="Invalid";
 
 
 }
